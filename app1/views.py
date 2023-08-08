@@ -2,7 +2,6 @@ from django.shortcuts import render, get_object_or_404
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from .models import ArticlesModel, TeamMembersModel, AuthorArticlesModel, CategoryArticlesModel
-from rest_framework import status
 from .serializers import (TeamMembersSerializer, AuthorArticlesSerializer,
                           CategoryArticlesSerialzier, ArticlesSerializer)
 from rest_framework import generics

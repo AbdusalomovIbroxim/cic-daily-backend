@@ -57,3 +57,4 @@ class EventModel(models.Model):
     class Meta:
         db_table = 'event'
 
+    
