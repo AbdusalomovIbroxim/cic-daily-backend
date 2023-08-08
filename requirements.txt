@@ -9,7 +9,7 @@ djangorestframework-simplejwt==5.2.2
 drf-yasg==1.21.6
 gunicorn==21.2.0
 inflection==0.5.1
-jsonschema==4.18.0
+jsonschema
 jsonschema-specifications==2023.6.1
 packaging==23.1
 psycopg2-binary==2.9.7
