@@ -36,7 +36,7 @@ ALLOWED_HOSTS = ['*']
 
 INSTALLED_APPS = [
     #local
-    'app1',
+    'app1.apps.AppsConfig',
 
    'django.contrib.staticfiles',  # required for serving swagger ui's css/js files
    'drf_yasg',
