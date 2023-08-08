@@ -45,7 +45,6 @@ INSTALLED_APPS = [
     #third
     'rest_framework',
     'rest_framework_simplejwt',
-    'django.contrib.staticfiles',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
