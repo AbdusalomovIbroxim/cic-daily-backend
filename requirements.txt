@@ -19,7 +19,6 @@ python-dotenv
 pytz==2023.3
 PyYAML==6.0
 referencing
-
 sqlparse==0.4.4
 swagger-spec-validator==3.0.3
 typing_extensions==4.7.1
